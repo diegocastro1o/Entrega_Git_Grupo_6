@@ -6,3 +6,4 @@
 - Reporte básico de calificaciones
 - Centro estudiantil
 - Inscripción a cursos
+- Notificación de fechas limites
