@@ -12,7 +12,7 @@ Organizar una base documental inicial para un sistema académico sencillo que pe
 
 
 
-* \[x] Clarificar qué módulos tendrá el sistema.
+* \[x] Especificar qué módulos tendrá el sistema.
 * \[x] Definir versión inicial compartida.
 * \[x] Documentar flujo básico de trabajo colaborativo.
 * \[x] Practicar integración de aportes por ramas.

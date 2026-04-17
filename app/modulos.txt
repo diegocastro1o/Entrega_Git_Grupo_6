@@ -7,3 +7,4 @@
 - Centro estudiantil
 - Inscripción a cursos
 - Notificación de fechas limites
+- Gestión de personal
