@@ -11,10 +11,11 @@ Organizar una base documental inicial para un sistema académico sencillo que pe
 ## Objetivos específicos (editables)
 
 
+
 * \[ ] Clarificar qué módulos tendrá el sistema.
 * \[x] Definir versión inicial compartida.
 * \[x] Documentar flujo básico de trabajo colaborativo.
-* \[ ] Practicar integración de aportes por ramas.
+* \[x] Practicar integración de aportes por ramas.
 
 ## Observaciones del equipo
 
