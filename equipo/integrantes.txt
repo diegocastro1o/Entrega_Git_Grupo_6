@@ -5,7 +5,7 @@
 1. Diego Castro | Coordinador | Repasar fundamentos y herramientas de CS
 2. Malena González |Auditor| Aprender git
 3. Gonzalo Muñoz        | Desarrollador        | Entender git
-4. ____________________ | ____________________ | ____________________
+4. Agustí  Canales      | Integrador           | Investigar y aprender sobre Git
 5. ____________________ | ____________________ | ____________________
 
 # Roles sugeridos:
