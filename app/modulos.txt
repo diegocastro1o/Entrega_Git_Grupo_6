@@ -4,4 +4,8 @@
 - Gestión de estudiantes
 - Agenda de entregas
 - Reporte básico de calificaciones
+<<<<<<< HEAD
 - Centro estudiantil 
+=======
+- Gestion de personal
+>>>>>>> 1ab541ff70a28bd4a035435f10d365440fd38b28

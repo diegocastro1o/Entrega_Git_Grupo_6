@@ -2,9 +2,15 @@
 # Completar una línea por integrante.
 # Formato: Nombre completo | Rol | Interés en la materia
 
+<<<<<<< HEAD
 1. ____________________ | ____________________ | ____________________
 2. Malena González |Auditor| Aprender git
 3. ____________________ | ____________________ | ____________________
+=======
+1. Diego Castro | Coordinador | Repasar fundamentos y herramientas de CS
+2. ____________________ | ____________________ | ____________________
+3. Gonzalo Muñoz        | Desarrollador        | Entender git
+>>>>>>> 1ab541ff70a28bd4a035435f10d365440fd38b28
 4. ____________________ | ____________________ | ____________________
 5. ____________________ | ____________________ | ____________________
 
