@@ -8,6 +8,7 @@
 ## Sección B - Guardar cambios
 
 - `git add <archivo>`: prepara archivo para commit.
+- `git add .`: prepara todos los archivos modificados o untracked para commit.
 - `git commit -m "mensaje"`: guarda un punto de avance.
 
 ## Sección C - Revisar historial y diferencias
