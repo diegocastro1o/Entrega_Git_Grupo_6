@@ -20,7 +20,7 @@
 - `git branch`: lista ramas.
 - `git checkout -b <rama>`: crea y cambia a nueva rama.
 - `git merge <rama>`: integra cambios de otra rama.
-
+- 'git rebase main' :Reaplica tus commits encima de otra rama (por ejemplo main), dejando un historial más limpio. 
 ## Sección E - Corrección de errores
 
 - `git restore <archivo>`: descarta cambios no confirmados en un archivo.
